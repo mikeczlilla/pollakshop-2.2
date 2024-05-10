@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+
+form{
+    background-color: #6e98b1;
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+    border-style: double;
+    border-color: black;
+    border-radius: 25px;
+}
+input{
+    width: 150px;
+    height: 20px;
+    border-radius: 25px;
+    font-size:20px;
+    padding: 5px;
+    margin: 4px;
+
+}
+
+input[type=submit]{
+    height:50px;
+    margin: 4px;
+}
+
+input[type=submit]:hover{
+cursor: pointer ;
+}
+
+label{
+    font-size: 20px;
+}

@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    background-color: #9DBDCF;
+}
+
+
+
+
+#kosargomb-{
+    float: left;
+    height: 40px;
+    margin: -9px;
+}
+
+
+
+.icon{
+    max-width: 50px;
+}
+
+.kosargomb{
+    max-width: 60px;    
+    border-radius: 25px;
+    background: none;
+    border-style: none;
+    cursor: pointer;
+}
+
+.kosargomb:hover{
+    background-color: #4a95bd;
+    box-shadow: 10px 5px 5px  #0a8bb3;
+
+}
+
+
+
+a{
+    text-decoration: none;
+    color: #80badb;
+}
+ a:hover{
+    color: #16c1f5ab
+ }
+
+
+ .navbar navbar-expand-lg navbar-dark bg-dark{
+    display: flex;
+    justify-content:flex-start ;
+    align-items: center;
+    background-color: #5797BB;
+    font-size: 30px;
+    padding: 10px;  
+    height: 40px;
+
+}
+
+
+#logo{
+max-width: 40px;
+float: left;
+}
+
+.product_img{
+     max-width: 250px;
+     border-radius: 25px;
+     
+}
+
+
+.product_card{
+    text-align: center;
+    max-width: 280px;
+    background-color: #7DB2CF;
+    border-radius: 25px;    
+    padding: 15px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #4a95bd; 
+    margin: 10px 10px 15px;
+    display: inline-block;
+}
+
+.product_card_name{
+    color:white;
+    font-weight: bolder;
+}
+
+.product_card_description{
+    color:white;
+
+}
+
+
+.price{
+color: white;
+}
+
+
+
+.cart_btn{
+    max-width: 60px;    
+    border-radius: 25px;
+    background: none;
+    border-style: none;
+    cursor: pointer;
+}
+
+.cart_btn:hover{
+    background-color: #4a95bd;
+    box-shadow: 10px 5px 5px  #0a8bb3;
+
+}
+
+.favorite_btn{
+    max-width: 60px;    
+    border-radius: 25px;
+    background: none;
+    border-style: none;
+    cursor: pointer;
+}
+
+.fav_icon{
+    max-width:50px;
+}
+
+.cart_icon{
+    max-width: 50px;
+}
+
+.favorite_btn:hover{
+    background-color: #4a95bd;
+    box-shadow: 10px 5px 5px  #0a8bb3;
+}
+
+
+.main_div{
+    margin: auto;
+    width: fit-content;
+}    
+
+#bej_{  
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+    
+}
+
+#reg_{
+
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+  
+}
+
+
+#reg1{
+
+    height:50px;
+    margin: auto;
+}
+#kosz{
+    text-align: center;
+}
+
+
+
+
+
+

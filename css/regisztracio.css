@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+
+
+input{
+    width: 150px;
+    height: 20px;
+    border-radius: 25px;
+    font-size:20px;
+    padding: 5px;
+    margin: 4px;
+
+}
+
+input[type=submit]{
+    height:50px;
+    margin: 2px;
+}
+
+input[type=submit]:hover{
+cursor: pointer ;
+}
+
+label{
+    font-size: 20px;
+}
